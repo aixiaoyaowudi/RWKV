@@ -1,4 +1,14 @@
 # Byte-compiled / optimized / DLL files
+
+*.bin
+*.idx
+*.pth
+
+data/
+data_processing/
+lightning_logs/
+.vscode/
+
 __pycache__/
 *.py[cod]
 *$py.class
